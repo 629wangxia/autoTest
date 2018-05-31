@@ -1,0 +1,9 @@
+[2018-05-10 15:10:20] [INFO] 成功启动ChromeDriver。。。
+"[2018-05-10 15:11:35] [INFO] 打开网址为：http://127.0.0.1:8090/Discuz_X3.2_SC_GBK/upload/forum.php
+"[2018-05-10 15:11:37] [INFO] 窗口最大化
+"[2018-05-10 15:11:39] [INFO] 内容被清空
+"[2018-05-10 15:11:41] [INFO] 成功输入内容====>wangxia
+"[2018-05-10 15:11:42] [INFO] 内容被清空
+"[2018-05-10 15:11:42] [INFO] 成功输入内容====>123456
+"[2018-05-10 15:11:43] [INFO] 成功点击元素[[ChromeDriver: chrome on XP (f7d425ee9ec2a9ec71e6f2c6c26d5410)] -> xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button/em]
+"

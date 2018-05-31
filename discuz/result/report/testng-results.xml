@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DiscuzTest" duration-ms="173969" started-at="2018-05-30T07:56:55Z" finished-at="2018-05-30T07:59:49Z">
+    <groups>
+    </groups>
+    <test name="product" duration-ms="173969" started-at="2018-05-30T07:56:55Z" finished-at="2018-05-30T07:59:49Z">
+      <class name="testCase.LoginText">
+        <test-method status="PASS" signature="initTests()[pri:0, instance:testCase.LoginText@4c203ea1]" name="initTests" is-config="true" duration-ms="164319" started-at="2018-05-30T15:56:55Z" finished-at="2018-05-30T15:59:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTests -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testCase.LoginText@4c203ea1]" name="login" duration-ms="8987" started-at="2018-05-30T15:59:40Z" finished-at="2018-05-30T15:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- testCase.LoginText -->
+    </test> <!-- product -->
+  </suite> <!-- DiscuzTest -->
+</testng-results>
